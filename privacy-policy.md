@@ -42,8 +42,9 @@ Zzzyp is designed to be used by parents and other adults, including while caring
 
 ## Permissions
 
-- **Notifications (Android only):** used solely to show the playback notification that Android requires while audio runs in the background. It contains no marketing and is never used to message you.
-- **Internet (Android manifest):** a default of the underlying app framework. The app never uses it.
+Zzzyp requests no permissions. It does not ask for notifications, microphone,
+location, contacts, photos, or tracking. It plays audio in the background,
+which on iOS needs no permission prompt.
 
 ## Health disclaimer
 

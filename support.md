@@ -25,8 +25,8 @@ No. Every sound and every feature is free. There are no ads, no subscriptions an
 **Does the sound keep playing when I lock the phone?**
 Yes. That is the point of the app. Start a sound and lock the screen — playback continues and you get lock-screen controls. If it stops, check that Low Power Mode or a battery optimiser is not killing background audio.
 
-**Why is there a notification on Android?**
-Android requires a visible notification while an app plays audio in the background. Dismissing it stops the sound.
+**Can I control it without unlocking the phone?**
+Yes. While a sound is playing, standard play and pause controls appear on the lock screen and in Control Centre.
 
 **How do I stop the sound after a while?**
 Tap a timer chip on the main screen, or open the timer for a custom length or a stop-at clock time. The sound fades out gradually at the end instead of cutting off. Fade length is adjustable in Settings.
