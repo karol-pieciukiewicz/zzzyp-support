@@ -3,13 +3,17 @@ title: Support — Zzzyp
 permalink: /support/
 ---
 
+<p align="center">
+  <img src="../logo.png" alt="Zzzyp" width="200">
+</p>
+
 # Zzzyp — Support
 
 **Zzzyp - Baby White Noises** — eight sleep sounds, a fade-out timer, background playback. All free, no ads, no accounts.
 
 ## Getting help
 
-Open an issue: <https://github.com/karol-pieciukiewicz/app_white_noise/issues>
+Open an issue: <https://github.com/karol-pieciukiewicz/zzzyp-support/issues>
 
 Please include your device model, OS version, and the app version (shown at the bottom of the Settings screen).
 

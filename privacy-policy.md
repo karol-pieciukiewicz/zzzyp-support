@@ -56,4 +56,4 @@ If this policy ever changes, the updated version will be published at this addre
 ## Contact
 
 Questions: open an issue at
-<https://github.com/karol-pieciukiewicz/app_white_noise/issues>
+<https://github.com/karol-pieciukiewicz/zzzyp-support/issues>
